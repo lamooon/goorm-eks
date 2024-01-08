@@ -1,0 +1,6 @@
+step-0-and-1/.terraform/
+step-0-and-1/LICENSE
+step-0-and-1/.terraform.lock.hcl
+step-0-and-1/terraform.tfstate
+step-0-and-1/terraform.tfstate.backup
+3/terraform.tfstate
